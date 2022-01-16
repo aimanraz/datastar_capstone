@@ -13,6 +13,12 @@ The dataset is about customer purchasing history, and focused on determining pot
 
 ![](https://github.com/aimanraz/datastar_capstone/blob/main/img/MicrosoftTeams-image.png)
 
+## Data Cleaning
+Once uploaded the data, It required cleaning process. These are the following changes have been made:
+* Imputing the nulls
+* Reduce variables redundancies
+* Remove duplicates
+
 ## Exploratory Data Analysis (EDA)
 
 * Numerical columns correlation to  the response variable. 
