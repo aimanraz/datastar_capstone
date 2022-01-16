@@ -9,7 +9,7 @@ The main objective of this analysis is to perform Exploratory Data Analysis (EDA
 **Packages:** pandas, scipy, numpy, matplotlib and seaborn.
 
 ## About Dataset
-The dataset is about customer purchasing history, and focused on determining potential customers.
+The dataset is about customer purchasing history, and focused on determining potential customers. This original dataset provided from CADS for capstone project purposes.
 
 ![](https://github.com/aimanraz/datastar_capstone/blob/main/img/MicrosoftTeams-image.png)
 
